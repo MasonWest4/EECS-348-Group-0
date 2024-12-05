@@ -103,7 +103,7 @@ public:
 private:
     // Helper function to check if a character is an operator
     bool isOperator(char ch) {
-        return ch == '+' || ch == '-' || ch == '*' || ch == '/' || ch == '**' || ch == '%';
+        return ch == '+' || ch == '-' || ch == '*' || ch == '/' || ch == '%';
     }
 
     // Helper function to check if a token is a number
