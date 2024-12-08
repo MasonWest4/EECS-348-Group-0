@@ -1,5 +1,23 @@
 Meeting Notes
 
+Team Meeting 12/05/2024
+When Thursday December 5th, 2024
+Purpose: Implementation check up and discuss.
+Attendees: Mason West, Samantha Adorno, Evan Rogerson, Rahul Nesan, Zain Cheema
+
+Start Time: 3:40pm
+-Nick and Ben were not able to attend this meeting. 
+-The different sections of the program were chosen in discord before hand.
+  Mason - Error Handling
+  Samantha - Input Handler
+  Zain - Calculator
+  Evan - Quality Assurence
+  Rahul - User interface
+-Decided to redo a lot of the implementation so far for ease of connectivity.
+-Came up with functions and flow of program.
+-Divided out functions between team members.
+End Time: 5:00pm
+
 
 Team Meeting 11/07/2024
 When: Thursday November 7th, 2024
